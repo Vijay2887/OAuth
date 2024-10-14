@@ -25,8 +25,8 @@ This project implements a secure user authentication system using **Node.js**, *
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Vijay2887/authentication-system-oauth2.git
-    cd authentication-system-oauth2
+    git clone https://github.com/Vijay2887/OAuth.git
+    cd OAuth
     ```
 
 2. Install the dependencies:
@@ -48,7 +48,7 @@ This project implements a secure user authentication system using **Node.js**, *
 4. Run the application:
 
     ```bash
-    npm start
+    npm run start
     ```
 
 5. Open your browser and go to `http://localhost:3000` to access the application.
