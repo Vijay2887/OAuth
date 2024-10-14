@@ -48,7 +48,7 @@ This project implements a secure user authentication system using **Node.js**, *
 4. Run the application:
 
     ```bash
-    npm run start
+    npm run start-dev
     ```
 
 5. Open your browser and go to `http://localhost:3000` to access the application.
