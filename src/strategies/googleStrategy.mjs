@@ -6,8 +6,8 @@ export default passport.use(
   new Strategy(
     {
       clientID:
-        "813762509193-skgb7r6eqk632rc2ibamkknsdu6uhcnf.apps.googleusercontent.com",
-      clientSecret: "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",
+        "YOUR CLIENT ID",
+      clientSecret: "YOUR CLIENT SECRET",
       callbackURL: "http://localhost:3000/api/google/redirect",
       scope: [
         "https://www.googleapis.com/auth/userinfo.profile",
