@@ -45,6 +45,8 @@ This project implements a secure user authentication system using **Node.js**, *
     SESSION_SECRET=your_session_secret
     ```
 
+    Or you can directly set the clientId, secret in the program which is also done here in this example
+
 4. Run the application:
 
     ```bash
